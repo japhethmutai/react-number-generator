@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Details
+In the following design, evens are green, odds are yellow and prime numbers are red. Build the following colors using React component.
+
 ## Available Scripts
 
 In the project directory, you can run:
